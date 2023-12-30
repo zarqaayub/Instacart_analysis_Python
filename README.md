@@ -9,3 +9,15 @@ This project focused on Instacart, which is an online grocery store that operate
 ###### Customers
 ###### Products
 ###### Departments
+# Folders
+### Project Management
+ Contains the Project Brief
+### Data
+ Separated into Original and Prepared Data. These contain the original data frames and the data frames after they have been cleaned and prepared for analysis respectively. NOTE: This folder has not been included to file size constraints
+### Scripts
+Contains all the Python coding involved for the entire analysis process
+### Analysis
+Contains the Visualizations used for developing insights and presenting on the final report
+### Sent to Client
+Contains the Final Report in Excel
+
